@@ -1,16 +1,34 @@
-### Hi there 👋
+<h1>그저 열심히 하려는 개발자:book:</h1>
+   <p>
+       단점을 극복하기 위해 <b>노력</b>을 합니다<br>
+       <b>노력</b>을 절대 가볍게 생각하지 않습니다<br>
+       노력을 통한 결과를 확인할 때 큰 <b>성취감</b>을 느끼고<br>
+       어려움을 느끼지만 절대 <b>포기하지</b> 않습니다.
+   </p>
+   
+<h2>MY Motto</h2>
+   
+   <b>하늘은 스스로 돕는자를 돕는다.</b><br>
+   <b>Heaven helps those who help themselves.</b> 
+      
 
-<!--
-**kimcherjoung/kimcherjoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>My Skill</h2>
+   <div dislay:flex>
+      <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">    
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+   </div>
+   
+<h2>System Programing</h2>
+   <div display:flex>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">      
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+   </div>
+   
+<h2>Contact</h2>
+<ul>
+ <li>rkrtlxkf123456@gmail.com</li>
+ <li>s22006@gsm.hs.kr</li>
+</ul> 
