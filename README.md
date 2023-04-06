@@ -32,3 +32,6 @@
  <li>rkrtlxkf123456@gmail.com</li>
  <li>s22006@gsm.hs.kr</li>
 </ul> 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimcherjoung&show_icons=true&theme=radical)
